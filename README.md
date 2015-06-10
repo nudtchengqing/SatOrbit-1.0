@@ -2,6 +2,7 @@
 # author: Jack Cheng  sgggps@163.com or nudt.chengqing@gmail.com
 #SatOrbit是利用卫星两行根数星历，采用SGP4/SDP4轨道计算模型进行数据处理，能够模拟卫星的二维星下点轨迹轨道，可见性覆盖，三维轨道等.
 #（http://www.celestrak.com/可得到更新的星历）
+
 #功能:
 # 1. 二维卫星星下点轨迹模拟。
 
@@ -12,6 +13,8 @@
 # 4. 卫星三维轨道的模拟。
 
 # 5. 卫星信息的查询和报告。
+
+#release 中的.exe可以直接运行
 
 
 
